@@ -1,0 +1,19 @@
+Dependencies for Project 'CharLcd', Target 'Target 1': (DO NOT MODIFY !)
+F (.\startup_stm32f4xx.s)(0x4F587500)(--cpu Cortex-M4.fp --pd "__RTX SETA 1" -g --apcs=interwork -IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\Inc\ST\STM32F4xx--pd "__UVISION_VERSION SETA 521"--list .\listings\startup_stm32f4xx.lst --xref -o .\objects\startup_stm32f4xx.o --depend .\objects\startup_stm32f4xx.d)
+F (.\main.c)(0x58C54866)(-c --cpu Cortex-M4.fp -D__RTX -g -O0 --apcs=interwork --split_sections-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\Inc\ST\STM32F4xx-D__UVISION_VERSION="521" -DHSE_VALUE="8000000" -DSTM32F40_41xxx-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (C:\Keil_v5\ARM\Inc\ST\STM32F4xx\stm32f4xx.h)(0x58BC0494)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cm4.h)(0x55AF3408)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x574E7D6E)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h)(0x55AF3408)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h)(0x55AF3408)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cm4_simd.h)(0x55AF3408)
+I (C:\Keil_v5\ARM\Inc\ST\STM32F4xx\system_stm32f4xx.h)(0x55AF319E)
+I (lcd.h)(0x58C547E9)
+F (.\system_stm32f4xx.c)(0x4EAA454A)(-c --cpu Cortex-M4.fp -D__RTX -g -O0 --apcs=interwork --split_sections-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\Inc\ST\STM32F4xx-D__UVISION_VERSION="521" -DHSE_VALUE="8000000" -DSTM32F40_41xxx-o .\objects\system_stm32f4xx.o --omf_browse .\objects\system_stm32f4xx.crf --depend .\objects\system_stm32f4xx.d)
+I (C:\Keil_v5\ARM\Inc\ST\STM32F4xx\stm32f4xx.h)(0x58BC0494)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cm4.h)(0x55AF3408)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x574E7D6E)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h)(0x55AF3408)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h)(0x55AF3408)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cm4_simd.h)(0x55AF3408)
+I (C:\Keil_v5\ARM\Inc\ST\STM32F4xx\system_stm32f4xx.h)(0x55AF319E)
